@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:56.936857
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:35
 #+TITLE: 大乘起信論別記
 #+PROPERTY: CBETA_ID T44n1845
 #+PROPERTY: ID KR6o0104
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1845
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0104_T_000-0226a>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0104_T_001-0226a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1845[cf.Nos.1666,1844]¶
-
- 本大乘起信論別記(本)¶
+No. 1845 [cf. Nos. 1666, 1844]¶
+大乘起信論別記(本)¶
 ¶
 海東沙門元曉撰¶
 
@@ -754,8 +753,7 @@ No.1845[cf.Nos.1666,1844]¶
 起信論別記(本終)¶
 ¶
 ¶
-
- 末大乘起信論別記(末)¶
+大乘起信論別記(末)¶
 ¶
 海東沙門元曉撰¶
 
